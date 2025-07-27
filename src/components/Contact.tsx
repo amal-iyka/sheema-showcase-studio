@@ -9,19 +9,19 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "sheema.kaunain@example.com",
-      href: "mailto:sheema.kaunain@example.com"
+      value: "sheema.kaunain@email.com",
+      href: "mailto:sheema.kaunain@email.com"
     },
     {
       icon: Phone,
       label: "Phone",
-      value: "+1 (555) 123-4567",
-      href: "tel:+15551234567"
+      value: "+1 (416) 555-0123",
+      href: "tel:+14165550123"
     },
     {
       icon: MapPin,
       label: "Location",
-      value: "New York, NY",
+      value: "Toronto, ON, Canada",
       href: "#"
     }
   ];
@@ -34,7 +34,7 @@ const Contact = () => {
     },
     {
       icon: Linkedin,
-      label: "LinkedIn",
+      label: "LinkedIn", 
       href: "https://linkedin.com/in/sheemakaunain"
     },
     {

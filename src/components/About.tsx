@@ -4,8 +4,8 @@ import { Code, Palette, Zap, Users } from "lucide-react";
 
 const About = () => {
   const skills = [
-    "React", "TypeScript", "Node.js", "Python", "Next.js", "Tailwind CSS",
-    "MongoDB", "PostgreSQL", "AWS", "Docker", "Figma", "Adobe Creative Suite"
+    "React", "TypeScript", "JavaScript", "HTML/CSS", "Node.js", "Next.js", 
+    "Tailwind CSS", "SASS", "Git", "Figma", "Adobe Creative Suite", "MongoDB"
   ];
 
   const qualities = [
@@ -39,8 +39,9 @@ const About = () => {
             About Me
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Passionate developer with 5+ years of experience creating digital solutions 
-            that make a difference. I bridge the gap between design and development.
+            From numbers to code - I'm a Chartered Accountant who discovered a passion 
+            for front-end development. I specialize in creating accessible, beautiful 
+            applications with over 5 years of client service experience.
           </p>
         </div>
 
@@ -51,18 +52,21 @@ const About = () => {
             <h3 className="text-2xl font-semibold mb-6 text-foreground">My Journey</h3>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                Started my journey in computer science with a deep curiosity about how 
-                technology can solve real-world problems. Over the years, I've evolved 
-                from writing simple scripts to architecting complex applications.
+                My journey began in the world of finance as a Chartered Accountant, 
+                where I spent 5+ years in client service roles leading teams and 
+                solving complex business challenges. This experience taught me the 
+                importance of attention to detail and user-centered thinking.
               </p>
               <p>
-                I believe in continuous learning and staying updated with the latest 
-                technologies. My approach combines technical expertise with creative 
-                problem-solving to deliver exceptional results.
+                The transition to front-end development felt natural - both fields 
+                require logical thinking, problem-solving, and a commitment to 
+                excellence. I bring this analytical mindset to every project, 
+                ensuring solutions are not just beautiful, but also functional and accessible.
               </p>
               <p>
-                When I'm not coding, you'll find me exploring new design trends, 
-                contributing to open-source projects, or mentoring aspiring developers.
+                Based in Toronto, Canada, I'm passionate about creating web applications 
+                that make a real difference in people's lives. I believe great technology 
+                should be intuitive, inclusive, and delightful to use.
               </p>
             </div>
 
